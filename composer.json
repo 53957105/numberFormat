@@ -1,13 +1,13 @@
 {
     "name": "hxyou/number-format",
-    "description": "一个处理数字的包",
+    "description": "幻想游戏，工具库，hxyou.cn",
     "authors": [
         {
             "name": "liguoliang-MagicBook",
             "email": "53957105@qq.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "0.0.1",
     "require": {
         "php": ">=5.3.0"
     },
