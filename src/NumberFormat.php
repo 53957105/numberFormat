@@ -1,6 +1,6 @@
 <?php
 
-namespace hxyou;
+namespace numberFormat;
 
 class NumberFormat
 {
