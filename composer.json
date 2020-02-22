@@ -7,7 +7,7 @@
             "email": "53957105@qq.com"
         }
     ],
-    "minimum-stability": "0.0.1",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.0"
     },
